@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gouravkumar532
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning data science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me gourav0002006@gmail.com
 - 😄 Pronouns: ...
