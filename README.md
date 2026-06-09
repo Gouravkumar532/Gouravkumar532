@@ -30,12 +30,6 @@ If you want to discuss data science, collaborate on a project, or just talk tech
 
 ---
 
-### 📈 GitHub Statistics
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gouravkumar532&show_icons=true&theme=visual_studio_dark" alt="Gourav's GitHub Stats" />
-</p>
-
 <!---
 Gouravkumar532/Gouravkumar532 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
