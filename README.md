@@ -26,7 +26,7 @@ An aspiring **Data Scientist** and passionate **Software Developer** dedicated t
 If you want to discuss data science, collaborate on a project, or just talk tech, feel free to reach out!
 
 * 📧 **Email:** [gourav0002006@gmail.com](mailto:gourav0002006@gmail.com)
-* 💼 **LinkedIn:** [https://www.linkedin.com/in/gourav-sharma2k/]([https://linkedin.com](https://www.linkedin.com/in/gourav-sharma2k/))
+* 💼 **LinkedIn:** [Gourav Sharma](https://www.linkedin.com/in/gourav-sharma2k/)
 
 ---
 
