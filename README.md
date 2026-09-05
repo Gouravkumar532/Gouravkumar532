@@ -277,26 +277,6 @@ mindmap
 
 ---
 
-# 📈 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gouravkumar532&bg_color=141321&color=00f2fe&line=00f2fe&point=00f2fe&area=true&hide_border=true" width="95%" />
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Gouravkumar532/Gouravkumar532/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-
-</div>
-
----
-
 # 📫 Let's Connect
 
 <div align="center">
